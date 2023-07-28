@@ -34,5 +34,7 @@ package classes.template;
 
 
 public class UsePerson {
-
+	public static void main(String[] args) {
+		// make codex
+	}
 }
