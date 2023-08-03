@@ -2,7 +2,7 @@ package introObject;
 
 class Demo{
 	
-	public void printSomthing() {
+	private void printSomthing() {
 		System.out.println("Hello, From private in main!");
 	}
 	
@@ -30,9 +30,9 @@ public class Tester1 {
 		
 		Demo demo = new Demo();
 		demo.printNothing();
-		demo.printSomthing();
+		
 		
 		
 	}
-	
+
 }
