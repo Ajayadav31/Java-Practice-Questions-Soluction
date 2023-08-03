@@ -1,8 +1,19 @@
 package introObject;
 
+
+class House{
+	
+	private String almeera = "Shirts";
+	
+	public void sameer() {
+		System.out.println(this.almeera);
+	}
+}
+
 public class HelloTester {
-	private void man() {
-		// TODO Auto-generated method stub
-		System.out.println("Java Programing!");
+	
+	public static void main(String[] args) {
+		House house = new House();
+		house.sameer();
 	}
 }	

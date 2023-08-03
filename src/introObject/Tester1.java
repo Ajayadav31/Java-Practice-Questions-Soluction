@@ -36,3 +36,18 @@ public class Tester1 {
 	}
 
 }
+<<<<<<< HEAD
+=======
+
+
+// Notes:-
+
+// Accessing the public methods is allowed from enyware
+
+// Accessing the private methods is note allowed from anyware
+
+			// 1. if you try to access private methods/properiteys from same class then it's correct
+			//2. if you try to access private methods/properiteys from diffrent class thenit's wrong.
+
+
+>>>>>>> f5419eec9a6afb5ec5dff13d39d5b0682033d56b
