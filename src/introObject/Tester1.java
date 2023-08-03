@@ -30,7 +30,19 @@ public class Tester1 {
 		
 		Demo demo = new Demo();
 		demo.printNothing();
-		demo.printSomthing();
+//		demo.printSomthing();
 	}
 	
 }
+
+
+// Notes:-
+
+// Accessing the public methods is allowed from enyware
+
+// Accessing the private methods is note allowed from anyware
+
+			// 1. if you try to access private methods from same class then it's correct
+			//2. if you try to access private methods from diffrent class thenit's wrong.
+
+

@@ -58,7 +58,7 @@ public class Tester {
 		tester.printSomthing();
 		
 		Myprograms programs = new Myprograms();
-		programs.printSomthin();
+//		programs.printSomthin();
 		
 		/*
 		 
