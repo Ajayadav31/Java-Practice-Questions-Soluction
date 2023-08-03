@@ -42,7 +42,7 @@ public class Tester1 {
 
 // Accessing the private methods is note allowed from anyware
 
-			// 1. if you try to access private methods from same class then it's correct
-			//2. if you try to access private methods from diffrent class thenit's wrong.
+			// 1. if you try to access private methods/properiteys from same class then it's correct
+			//2. if you try to access private methods/properiteys from diffrent class thenit's wrong.
 
 
