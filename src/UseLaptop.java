@@ -1,4 +1,4 @@
-package setter.getter;
+
 
 class Laptop{
 	
