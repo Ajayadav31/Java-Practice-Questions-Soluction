@@ -30,14 +30,10 @@ public class Tester1 {
 		
 		Demo demo = new Demo();
 		demo.printNothing();
-		
-		
-		
 	}
 
 }
-<<<<<<< HEAD
-=======
+
 
 
 // Notes:-
@@ -50,4 +46,4 @@ public class Tester1 {
 			//2. if you try to access private methods/properiteys from diffrent class thenit's wrong.
 
 
->>>>>>> f5419eec9a6afb5ec5dff13d39d5b0682033d56b
+

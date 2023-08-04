@@ -68,7 +68,7 @@ public class Tester {
 	        
 	        // Write code for getting th age 
 //	        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-	        int studentAge = 
+	        int studentAge = student1.waysOfGetAge();
 	        
 	        
 	        
