@@ -5,24 +5,34 @@ package encapsulationDemo;
 // proctected -> accessible in the same file = file 
 // private -> accessible in witin the class = witin the class
 
-class Animal{
-	// props
+class Human{
+	// props - data 
+	// data security - enc
 	private String name = "Akash Yadav";
-	private String contactNumber = "6261898314";
+	private String contactNumber = "713957359";
 	
-	// behavours
+	// behavours - methods
+	
+	public String getName() {
+		return name;
+	}
+	
+	public String getContactNumber() {
+		return contactNumber;
+	}
 	
 }
 
-class Human{
+class Animal{
 	
 }
 
 public class Tester {
 	
 	public static void main(String[] args) {
-		Animal robbin = new Animal();
-		robbin.name = "asas";
+		Human akash = new Human();
+		akash.getName();
+		akash.getContactNumber();
 	}
 
 }
