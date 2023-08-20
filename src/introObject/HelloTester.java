@@ -5,7 +5,7 @@ class House{
 	
 	private String almeera = "Shirts";
 	
-	public void sameer() {
+	public void arpit() {
 		System.out.println(this.almeera);
 	}
 }
@@ -13,7 +13,7 @@ class House{
 public class HelloTester {
 	
 	public static void main(String[] args) {
-		House house = new House();
-		house.sameer();
+		House arpitHouse = new House();
+		arpitHouse.arpit();
 	}
 }	
