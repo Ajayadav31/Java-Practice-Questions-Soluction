@@ -1,5 +1,7 @@
 package publicaccessmodifier;
 
+/*
+
 import package1.Test;
 import package1.MyClass;
 import package1.Laptop;
@@ -21,3 +23,5 @@ public class Tester {
 		
 	}
 }
+
+*/
