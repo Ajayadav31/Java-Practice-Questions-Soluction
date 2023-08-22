@@ -1,0 +1,6 @@
+
+	* we are allowed to import public classes in out code
+	* from the public class we can only allowed to access public methods
+	* we can access static methods by it's class name
+	* we must create class object if we want to access non-static methods from public class
+	

@@ -68,7 +68,11 @@ public class Tester {
 	        
 	        // Write code for getting th age 
 //	        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 	        int studentAge = student1.waysOfGetAge();
+
+//	        int studentAge = 
+
 	        
 	        
 	        
@@ -76,7 +80,7 @@ public class Tester {
 	        String studentId = student1.getStudentId();
 
 	        System.out.println("Name: " + studentName);
-	        System.out.println("Age: " + studentAge);
+//	        System.out.println("Age: " + studentAge);
 	        System.out.println("Student ID: " + studentId);
 	    }
 
