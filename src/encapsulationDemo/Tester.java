@@ -8,6 +8,7 @@ package encapsulationDemo;
 class Human{
 	// props - data 
 	// data security - enc
+	// data hiding - 
 	private String name = "Akash Yadav";
 	private String contactNumber = "713957359";
 	
