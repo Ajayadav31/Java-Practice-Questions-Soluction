@@ -8,6 +8,7 @@ public class Main {
 	private void msg() {
 		System.out.println("Called Main-> msg(): private");
 	}
+	
 	public static void main(String[] args) {
 		
 		DemoClass1 demo1 = new DemoClass1();
