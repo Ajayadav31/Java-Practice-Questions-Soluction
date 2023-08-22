@@ -17,6 +17,7 @@ public class Tester {
 		myclass.printSomthing();
 		laptop.calTotalPrice();
 		Laptop.msg();
+		myclass.myStatus(String status);
 		
 	}
 }
