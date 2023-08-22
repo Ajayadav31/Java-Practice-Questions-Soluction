@@ -17,7 +17,7 @@ public class Main {
 		Main demopackage = new Main();
 //		demopackage.main(args);
 		
-		// we can't able t create a object of the class which has main method
+		
 		MyClass.main(args);
 //		MyClass.publicMsg(); // WE CAN'T ABLE TO ACCESS NON-STATIC METHODS
 		MyClass myclass = new MyClass();

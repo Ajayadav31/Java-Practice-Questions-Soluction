@@ -4,7 +4,7 @@ public class MyClass {
 	
 	public void publicMsg() {
 //		int x = 10;
-		System.out.println("Called Test-> PublicMsg(): public");
+		System.out.println("Called MyClass-> PublicMsg(): public");
 	}
 
 	public static void main(String[] args) {
