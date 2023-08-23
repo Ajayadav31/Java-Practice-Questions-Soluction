@@ -24,6 +24,9 @@ public class Tester {
 		System.out.println(result);
 		
 		
+		cal.add(12, 23.45);
+		cal.add(23.78, 89);
+		
 		// creating method class obj
 //		Method m = new Method();
 //		int num1 = m.getNum1();
