@@ -22,5 +22,32 @@ public class Calculater {
 		int result = num1 + num2;
 		return result;
 	}
+	
+	public int add(int num1) {
+		int result = num1 + 0;
+		return result;
+	}
+	public double add(double num2) {
+		double result = num2 + 0.0;
+		return result;
+	}
+	public double add(int num1, double num2) {
+		double result = num1 + num2;
+		return result;
+	}
+	public double add(double num2, int num1) {
+		double result = num1 + num2;
+		return result;
+	}
+	
+//	public int add(){
+//		System.out.println("ui");
+//	}
+//
+//	public double add(){
+//		System.out.println("io");
+//	}
+	
+	
 
 }
