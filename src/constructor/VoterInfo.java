@@ -2,8 +2,8 @@ package constructor;
 
 public class VoterInfo {
 	private String name;
-	private String FatherName;
-	private String MotherName;
+	private String fatherName;
+	private String motherName;
 	private int age;
 	private int pinCode;
 	
@@ -15,16 +15,16 @@ public class VoterInfo {
 		this.name = name;
 	}
 	public String getFatherName() {
-		return FatherName;
+		return fatherName;
 	}
 	public void setFatherName(String fatherName) {
-		FatherName = fatherName;
+		this.fatherName = fatherName;
 	}
 	public String getMotherName() {
-		return MotherName;
+		return motherName;
 	}
 	public void setMotherName(String motherName) {
-		MotherName = motherName;
+		this.motherName = motherName;
 	}
 	public int getAge() {
 		return age;
@@ -47,22 +47,22 @@ public class VoterInfo {
 		this.name = name;
 		this.age = age;
 	}
-	public VoterInfo(String name, int age, String FatherName) {
+	public VoterInfo(String name, int age, String fatherName) {
 		this.name = name;
 		this.age = age;
-		this.FatherName = FatherName;
+		this.fatherName = fatherName;
 	}
-	public VoterInfo(String name, int age, String FatherName, String MotherName) {
+	public VoterInfo(String name, int age, String fatherName, String motherName) {
 		this.name = name;
 		this.age = age;
-		this.FatherName = FatherName;
-		this.MotherName = MotherName;
+		this.fatherName = fatherName;
+		this.motherName = motherName;
 	}
-	public VoterInfo(String name, int age, String FatherName, String MotherName, int pinCode) {
+	public VoterInfo(String name, int age, String fatherName, String motherName, int pinCode) {
 		this.name = name;
 		this.age = age;
-		this.FatherName = FatherName;
-		this.MotherName = MotherName;
+		this.fatherName = fatherName;
+		this.motherName = motherName;
 		this.pinCode = pinCode;
 	}
 	

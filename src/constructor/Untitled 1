@@ -4,3 +4,6 @@
 	* Constructor name always same as class name
 	* Constructor does not have any return type
 	* Mostly used for values init.
+	
+	employee + main = 1
+	VoterInfo+Info = 1
