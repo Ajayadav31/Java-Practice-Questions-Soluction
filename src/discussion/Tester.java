@@ -30,6 +30,7 @@ public class Tester {
 		
 		*/
 		
+		keybord.nextLine();
 		
 		char gender = keybord.next().charAt(0);
 		char firstword = keybord.next().charAt(0);
