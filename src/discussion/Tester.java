@@ -38,7 +38,7 @@ public class Tester {
 		
 		System.out.println("User input is: "+ gender +" And "+ firstword);
 		
-		
+		keybord.close(); //args. this is very importent
 		
 	}
 }
