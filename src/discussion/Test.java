@@ -35,7 +35,7 @@ public class Test {
 				}
 				break;
 				
-			case 2 :
+			case "BIO":
 				System.out.print("Enter your marks in hindi : ");
 				int hi = in.nextInt();
 				System.out.print("Enter your marks in english : ");
@@ -56,7 +56,7 @@ public class Test {
 				}
 				break;
 				
-			case 3:
+			case "Comm" :
 				System.out.print("Enter your marks in hindi : ");
 				int hin = in.nextInt();
 				System.out.print("Enter your marks in english : ");
