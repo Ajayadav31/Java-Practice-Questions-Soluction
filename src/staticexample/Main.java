@@ -39,5 +39,6 @@ public class Main {
 		String name = Demo.name;
 		
 		System.out.println(name);
+		System.out.println(name);
 	}
 }
