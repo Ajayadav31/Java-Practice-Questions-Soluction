@@ -1,9 +1,9 @@
 
-	* defaultaccessmodifier
-	* publicaccessmodifier -> demopackage
-	* protectedaccessmodifier -> protecteddemo
-	* privateaccessmodifier
+	Topics to learn
 	
+	* Static Block and how can i call static block without creating object , class loder
+	* How can we access objects props in static methods-> by passing objs itself in methods
 	
-	
-	
+Class.forName("staticexamples.Mobile");
+throws ClassNotFoundException
+

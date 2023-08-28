@@ -30,6 +30,7 @@ public class Tester {
 		
 		*/
 		
+		keybord.nextLine();
 		
 		char gender = keybord.next().charAt(0);
 		char firstword = keybord.next().charAt(0);
@@ -37,7 +38,7 @@ public class Tester {
 		
 		System.out.println("User input is: "+ gender +" And "+ firstword);
 		
-		
+		keybord.close(); //args. this is very importent
 		
 	}
 }
