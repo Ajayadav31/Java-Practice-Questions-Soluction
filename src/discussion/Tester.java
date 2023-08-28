@@ -1,6 +1,6 @@
 package discussion;
 
-import java.lang.*; // by default
+//import java.lang.*; // by default
 import java.util.Scanner;
 
 public class Tester {
