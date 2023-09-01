@@ -5,7 +5,7 @@ class laptop{
 	int maximunAge=90;
 	int currentAge=21;
 	
-	public static void calculateAgeRemains(laptop JSFKAJSFKAJDSGKAJDGLKAGDGAKDHGKADHGKFDGLD) {
+	public static void calculateAgeRemains(laptop  ) {
 		int remainAge = JSFKAJSFKAJDSGKAJDGLKAGDGAKDHGKADHGKFDGLD.maximunAge - JSFKAJSFKAJDSGKAJDGLKAGDGAKDHGKADHGKFDGLD.currentAge;
 		System.out.println(remainAge);
 	}
